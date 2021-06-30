@@ -94,6 +94,9 @@ textarea {
 .button:hover {
   background-color: blue;
 }
+.fa-paper-plane {
+  color: white;
+}
 /* პირველი სექციის მეორე ნაწილი*/
 .icon {
   width: 50px;
